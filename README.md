@@ -1,6 +1,6 @@
-# MERN-FullStack-MoneyApp
+# PERSONAL FINANCE MANAGER 💰
 
-# FinTech Professional C2.0/FinTech Developer Web App Using MERN
+# FinTech Developer Web App Using MERN
 
 A simple yet functional money-tracking web application with basic user CRUD and auth/JWT features - built using React.js, Node.js, Express and MySQL.
 
